@@ -1,0 +1,23 @@
+.movie-card{
+    width: 280px;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    padding-bottom: 10px;
+}
+img{
+    width: 280px;
+    height: 180px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+h3,p,span{
+margin-left: 10px;
+margin-right :10px;
+}
+h3{
+    font-size: 25px;
+}
+span{
+    font-weight: bold;
+}

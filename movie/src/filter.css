@@ -1,0 +1,29 @@
+.filter{
+    position: fixed;
+    width: 100vw;
+    background-color: rgb(22, 21, 21);
+    height: 70px;
+    display: flex;
+    justify-content:center;
+    align-items: center
+}
+.inputFilter{
+    cursor: pointer;
+    border-color: white;
+    margin-right: 10px;
+    border-radius: 8px;
+    background: #f8f7f7;
+    box-shadow: inset 5px 5px 10px #e9d7d7,
+                inset -5px -5px 10px #e9d7d7;
+    height:30px ;
+    text-align: center;
+}
+.searchButton{
+    cursor: pointer;
+    color: white;
+    background-color: rgb(30, 141, 17);
+    border-color: white;
+    border-radius: 10px;
+    height:40px ;
+    width: 80px;
+}
